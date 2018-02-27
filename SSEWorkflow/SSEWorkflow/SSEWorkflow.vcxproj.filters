@@ -34,5 +34,8 @@
     <MASM Include="SseScalarFloatingPointArithmetic_.asm">
       <Filter>Source Files</Filter>
     </MASM>
+    <MASM Include="SseScalarFloatingPointCompare_.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
   </ItemGroup>
 </Project>
